@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\study\\\u8CC7\u6599\u7D50\u69CB(\u4E8C)\\record\\2025-03-12\\HW03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C369A23A-2F4D-494C-8154-014CEDDE22BB}|HW03\\HW03.vcxproj|E:\\study\\\u8CC7\u6599\u7D50\u69CB(\u4E8C)\\record\\2025-03-12\\HW03\\HW03\\HW03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C369A23A-2F4D-494C-8154-014CEDDE22BB}|HW03\\HW03.vcxproj|solutionrelative:HW03\\HW03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HW03.cpp",
+              "DocumentMoniker": "E:\\study\\\u8CC7\u6599\u7D50\u69CB(\u4E8C)\\record\\2025-03-12\\HW03\\HW03\\HW03.cpp",
+              "RelativeDocumentMoniker": "HW03\\HW03.cpp",
+              "ToolTip": "E:\\study\\\u8CC7\u6599\u7D50\u69CB(\u4E8C)\\record\\2025-03-12\\HW03\\HW03\\HW03.cpp",
+              "RelativeToolTip": "HW03\\HW03.cpp",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-14T05:31:15.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
