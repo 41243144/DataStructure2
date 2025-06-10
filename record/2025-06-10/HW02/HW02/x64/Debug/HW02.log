@@ -1,0 +1,3 @@
+﻿  HW02.cpp
+E:\study\資料結構(二)\record\2025-06-10\HW02\HW02\HW02.cpp(79,11): warning C4267: '正在初始化': 將 'size_t' 轉換為 'int'，資料可能遺失
+  HW02.vcxproj -> E:\study\資料結構(二)\record\2025-06-10\HW02\x64\Debug\HW02.exe
